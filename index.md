@@ -5,7 +5,7 @@ XDXD
  
 </head>
 
-<body onload=display_ct();>
+<body>
 XDXD
 
 </body>
