@@ -6,7 +6,7 @@ XDXD
 </head>
 
 <body onload=display_ct();>
-<span id='ct' ></span>
+XDXD
 
 </body>
 </html>
